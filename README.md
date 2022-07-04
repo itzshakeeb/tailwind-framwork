@@ -56,3 +56,11 @@ npm run build
 ```
 
 9. create a html file and link the ./output/tailwind.css
+
+## If you want to download my files :
+   Go there you download my file. Open with terminal or cmd
+   type
+```sh
+git checkout master
+```
+   
